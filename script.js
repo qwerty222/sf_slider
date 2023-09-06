@@ -19,16 +19,16 @@ const arrow_right = document.getElementById('arrow_right');
 
 const images = [
     {
-        "src": "admiral.png",
-        "alt": "Rostov-on-Don, Admiral project photo"
+        src: 'admiral.png',
+        alt: 'Rostov-on-Don, Admiral project photo'
     },
     {
-        "src": "sochi.png",
-        "alt": "Sochi Thieves project photo"
+        src: 'sochi.png',
+        alt: 'Sochi Thieves project photo'
     },
     {
-        "src": "patr.png",
-        "alt": "Rostov-on-Don Patriotic project photo"
+        src: 'patr.png',
+        alt: 'Rostov-on-Don Patriotic project photo'
     }
 ];
 
